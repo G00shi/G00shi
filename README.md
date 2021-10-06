@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @G00shi
+- 👀 I’m interested in learning new things.
+- 🌱 I’m currently learning Web GIS.
+- 💞️ I’m looking to collaborate as its my first time and I am confuse need help understanding things.
